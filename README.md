@@ -8,7 +8,7 @@ Wan, Jessica S.; Chen, Chih-Chieh-Jack; Tilmes, Simone; Luongo, Matthew T.; Rich
 ## Running the code
 All provided scripts are written in Python 3.8.2. Before running the code, you will need to clone the conda environment from `conda_requirements.txt`
 ```
-{conda create --name <env> --file conda_requirements.txt}
+conda create --name <env> --file conda_requirements.txt
 ```
 
 
