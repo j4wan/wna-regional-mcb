@@ -1,1 +1,2 @@
 function_dependencies.py : stores functions used in all analysis scripts in _code/ 
+atm_analysis.py : main script to analyze and plot CESM2 atm (cam) output in _data/
