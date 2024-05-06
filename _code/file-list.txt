@@ -1,3 +1,5 @@
 function_dependencies.py : stores functions used in all analysis scripts in _code/ 
 atm_analysis.py : main script to analyze and plot CESM2 atmosphere (cam) output in _data/
 ocn_analysis.py : main script to analyze and plot CESM2 ocean output in _data/
+ap_calc.py : calculate and plot bias corrected apparent temperature
+trefht_tseries.py : analyze and plot temperature time series for full simulations (including spin up)
